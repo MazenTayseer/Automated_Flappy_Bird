@@ -4,6 +4,7 @@ import os
 import random
 
 pygame.init()
+pygame.mixer.init()
 pygame.font.init()
 
 WIDTH = 500
